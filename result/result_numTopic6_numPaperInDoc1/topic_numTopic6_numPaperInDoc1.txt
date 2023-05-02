@@ -1,0 +1,6 @@
+(0, '0.016*"expression" + 0.010*"cancer" + 0.007*"bioinformatics" + 0.005*"magnetic reconnection" + 0.004*"cells" + 0.004*"identification" + 0.004*"prognosis" + 0.004*"classification" + 0.004*"database" + 0.004*"survival"')
+(1, '0.011*"model" + 0.008*"big data" + 0.007*"machine learning" + 0.006*"performance" + 0.005*"prediction" + 0.005*"uncertainty" + 0.005*"sets" + 0.005*"instance selection" + 0.005*"models" + 0.004*"regression"')
+(2, '0.013*"machine learning" + 0.009*"big data" + 0.007*"internet" + 0.006*"internet of things" + 0.006*"challenges" + 0.006*"security" + 0.006*"identification" + 0.005*"optimization" + 0.005*"sensors" + 0.004*"model"')
+(3, '0.041*"feature extraction" + 0.020*"deep learning" + 0.019*"task analysis" + 0.014*"training" + 0.013*"data models" + 0.011*"classification" + 0.008*"convolution" + 0.007*"predictive models" + 0.007*"convolutional neural networks" + 0.006*"semantics"')
+(4, '0.023*"classification" + 0.021*"machine learning" + 0.012*"prediction" + 0.008*"selection" + 0.007*"system" + 0.006*"feature selection" + 0.006*"risk" + 0.006*"support vector machine" + 0.006*"regression" + 0.006*"genetic algorithm"')
+(5, '0.010*"algorithm" + 0.010*"clustering" + 0.006*"fault diagnosis" + 0.006*"itemsets" + 0.006*"algorithms" + 0.006*"twitter" + 0.006*"tensors" + 0.005*"k-means" + 0.005*"optimization" + 0.004*"strategy"')

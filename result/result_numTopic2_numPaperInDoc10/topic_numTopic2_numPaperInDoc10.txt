@@ -1,0 +1,2 @@
+(0, '0.007*"feature extraction" + 0.007*"machine learning" + 0.006*"classification" + 0.004*"model" + 0.004*"deep learning" + 0.004*"algorithm" + 0.004*"prediction" + 0.003*"big data" + 0.003*"task analysis" + 0.003*"expression"')
+(1, '0.009*"machine learning" + 0.008*"classification" + 0.008*"feature extraction" + 0.005*"prediction" + 0.005*"model" + 0.005*"algorithm" + 0.004*"big data" + 0.004*"deep learning" + 0.003*"optimization" + 0.003*"system"')

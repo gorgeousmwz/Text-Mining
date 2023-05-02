@@ -1,0 +1,5 @@
+(0, '0.007*"clustering" + 0.005*"algorithms" + 0.005*"classification" + 0.005*"tensors" + 0.005*"machine learning" + 0.005*"k-means" + 0.004*"risk" + 0.004*"anomaly detection" + 0.003*"optimization" + 0.003*"principal component analysis"')
+(1, '0.019*"machine learning" + 0.013*"classification" + 0.012*"model" + 0.012*"prediction" + 0.010*"performance" + 0.009*"system" + 0.008*"optimization" + 0.005*"regression" + 0.005*"educational data mining" + 0.005*"design"')
+(2, '0.012*"expression" + 0.009*"identification" + 0.009*"cancer" + 0.004*"database" + 0.004*"bioinformatics" + 0.003*"classification" + 0.003*"cells" + 0.003*"diversity" + 0.003*"prognosis" + 0.003*"growth"')
+(3, '0.016*"big data" + 0.011*"machine learning" + 0.007*"internet" + 0.006*"security" + 0.006*"challenges" + 0.005*"deep learning" + 0.005*"networks" + 0.005*"internet of things" + 0.005*"classification" + 0.004*"intrusion detection"')
+(4, '0.037*"feature extraction" + 0.016*"task analysis" + 0.016*"deep learning" + 0.013*"training" + 0.011*"classification" + 0.011*"data models" + 0.009*"algorithm" + 0.008*"convolution" + 0.007*"feature selection" + 0.006*"convolutional neural networks"')

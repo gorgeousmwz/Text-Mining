@@ -1,0 +1,4 @@
+(0, '0.008*"algorithm" + 0.005*"machine learning" + 0.005*"clustering" + 0.004*"selection" + 0.004*"itemsets" + 0.004*"knowledge discovery" + 0.004*"algorithms" + 0.004*"discovery" + 0.003*"magnetic reconnection" + 0.003*"wrist"')
+(1, '0.023*"feature extraction" + 0.018*"classification" + 0.014*"machine learning" + 0.014*"deep learning" + 0.010*"task analysis" + 0.010*"big data" + 0.008*"training" + 0.007*"model" + 0.007*"algorithm" + 0.006*"feature selection"')
+(2, '0.010*"expression" + 0.008*"identification" + 0.007*"cancer" + 0.005*"risk" + 0.005*"machine learning" + 0.004*"bioinformatics" + 0.004*"prediction" + 0.004*"database" + 0.003*"air-pollution" + 0.003*"information security"')
+(3, '0.006*"model" + 0.006*"machine learning" + 0.005*"performance" + 0.004*"spatial data mining" + 0.004*"data models" + 0.004*"models" + 0.004*"random forest" + 0.003*"social media" + 0.003*"twitter" + 0.003*"pattern recognition"')

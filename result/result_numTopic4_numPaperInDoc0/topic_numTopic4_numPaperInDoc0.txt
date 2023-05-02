@@ -1,0 +1,4 @@
+(0, '0.003*"feature extraction" + 0.003*"classification" + 0.002*"machine learning" + 0.002*"prediction" + 0.002*"algorithm" + 0.002*"task analysis" + 0.002*"model" + 0.001*"system" + 0.001*"deep learning" + 0.001*"optimization"')
+(1, '0.009*"feature extraction" + 0.008*"machine learning" + 0.007*"classification" + 0.004*"deep learning" + 0.004*"prediction" + 0.004*"model" + 0.004*"big data" + 0.004*"algorithm" + 0.003*"task analysis" + 0.003*"optimization"')
+(2, '0.012*"feature extraction" + 0.008*"machine learning" + 0.007*"classification" + 0.006*"deep learning" + 0.005*"task analysis" + 0.004*"model" + 0.004*"algorithm" + 0.004*"prediction" + 0.003*"big data" + 0.003*"training"')
+(3, '0.009*"classification" + 0.009*"machine learning" + 0.006*"model" + 0.005*"prediction" + 0.005*"algorithm" + 0.005*"big data" + 0.005*"feature extraction" + 0.003*"system" + 0.003*"optimization" + 0.003*"deep learning"')

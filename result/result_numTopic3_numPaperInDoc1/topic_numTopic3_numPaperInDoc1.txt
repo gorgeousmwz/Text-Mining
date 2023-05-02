@@ -1,0 +1,3 @@
+(0, '0.015*"machine learning" + 0.009*"model" + 0.008*"classification" + 0.008*"performance" + 0.006*"prediction" + 0.006*"big data" + 0.004*"algorithms" + 0.004*"regression" + 0.003*"challenges" + 0.003*"knowledge"')
+(1, '0.022*"feature extraction" + 0.013*"deep learning" + 0.011*"classification" + 0.010*"task analysis" + 0.009*"algorithm" + 0.008*"training" + 0.007*"data models" + 0.006*"machine learning" + 0.006*"feature selection" + 0.006*"optimization"')
+(2, '0.008*"expression" + 0.006*"identification" + 0.006*"cancer" + 0.005*"machine learning" + 0.004*"risk" + 0.003*"bioinformatics" + 0.003*"cryptography" + 0.003*"database" + 0.002*"classification" + 0.002*"cells"')
